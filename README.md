@@ -1,5 +1,5 @@
 # WordPars
-WordPars: A Persian derivative tool for orthographic and phonological neighborhood and other psycholinguistic statistics
+WordPars: A tool for orthographic and phonological neighborhood and other psycholinguistic statistics in Persian
 
 (article in progress)
 
